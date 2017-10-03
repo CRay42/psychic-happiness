@@ -1,6 +1,8 @@
 body {
   max-width: 1000px;
   margin: 0 auto;
+  font-family: fantasy;
+  font-size: 20px;
 }
 
 form {
@@ -26,4 +28,8 @@ label{
 input{
   display: block;
   padding: 2px;
+}
+
+.required{
+  color: red;
 }
