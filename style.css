@@ -6,6 +6,7 @@ body {
 form {
   width: 640px;
   margin: 0 auto;
+  padding: 10px;
   border: 2px solid black;
   box-sizing: border-box;
 }
@@ -18,12 +19,11 @@ img {
 label{
   display: block;
   margin: 0 auto;
-  padding: 2px;
+  padding: 20px;
 
 }
 
 input{
   display: block;
-  margin: 0 auto;
   padding: 2px;
 }
