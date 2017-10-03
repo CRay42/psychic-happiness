@@ -15,10 +15,13 @@ img {
 
 label{
   display: block;
-  padding:
+  margin: 0 auto;
+  padding: 20px;
 
 }
 
 input{
   display: block;
+  margin: 0 auto;
+  padding: 20px;
 }
