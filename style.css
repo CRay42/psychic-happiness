@@ -12,6 +12,8 @@ form {
   padding: 10px;
   border: 2px dashed black;
   box-sizing: border-box;
+  text-align: left;
+  display: block;
 }
 
 img {
@@ -23,7 +25,7 @@ label{
   display: block;
   margin: 0 auto;
   padding: 20px;
-
+  align-items: center;
 }
 
 input{
